@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['workingsetscanner_0',['WorkingSetScanner',['../classpesieve_1_1_working_set_scanner.html',1,'pesieve']]],
-  ['workingsetscanreport_1',['WorkingSetScanReport',['../classpesieve_1_1_working_set_scan_report.html',1,'pesieve']]]
+  ['scannedmodule_0',['ScannedModule',['../classpesieve_1_1_scanned_module.html',1,'pesieve']]],
+  ['skippedmodulereport_1',['SkippedModuleReport',['../classpesieve_1_1_skipped_module_report.html',1,'pesieve']]],
+  ['statssettings_2',['StatsSettings',['../structpesieve_1_1_stats_settings.html',1,'pesieve']]],
+  ['stddeviationcalc_3',['StdDeviationCalc',['../classpesieve_1_1stats_1_1_std_deviation_calc.html',1,'pesieve::stats']]]
 ];
